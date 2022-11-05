@@ -1,0 +1,6 @@
+.product-container{
+    display: flex;
+}
+.product-container p{
+    margin:6px;
+}

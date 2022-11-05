@@ -1,0 +1,9 @@
+.container{
+  width: 80vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between; 
+  gap: 10px; 
+  margin: auto;
+  margin-top:3rem;
+}
